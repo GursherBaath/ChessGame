@@ -1,5 +1,4 @@
 //Name: Gursher Baath
-//Date:January, 18, 2019
 //Purpose:To make a functioning playable 2 player chess game
 import java.awt.*;
 import java.awt.event.*;
